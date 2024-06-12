@@ -6,8 +6,8 @@ require (
 	github.com/99designs/gqlgen v0.13.0
 	github.com/alexflint/go-arg v1.4.2
 	github.com/bradleyjkemp/cupaloy/v2 v2.6.0
-	github.com/stretchr/testify v1.7.0
-	github.com/vektah/gqlparser/v2 v2.1.0
+	github.com/stretchr/testify v1.9.0
+	github.com/vektah/gqlparser/v2 v2.5.14
 	golang.org/x/tools v0.1.5
 	gopkg.in/yaml.v2 v2.4.0
 )
